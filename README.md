@@ -12,4 +12,4 @@ The order in which the code was executed
 6. jprob_bootstrap_significance-HW (Figure 1b, S1b, S2b, S5b)
 7. HD_Prob_Areas (Figure 1c & S4a)
 8. HW_Prob_Areas (Figure 1d & S4b)
-9. spatial_ext_crop_totalcropland (
+9. spatial_ext_crop_totalcropland (Figure )
