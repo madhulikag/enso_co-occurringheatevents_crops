@@ -1,0 +1,205 @@
+Exposure of crop areas to Hot-Dry (HD) and Hot-Wet (HW) conditions by ENSO phase and season ## This is calculated within code chunks 26-35 under spatial_ext_crop_totalcropland
+
+HD
+
+Crop: total
+el - mam: 61602467.95 ha
+el - jja: 102504176.33 ha
+el - son: 83775262.27 ha
+el - djf: 52777588.89 ha
+el - mam1: 75673025.59 ha
+el - jja1: 88655913.19 ha
+la - mam: 77445717.90 ha
+la - jja: 79441230.49 ha
+la - son: 79295935.20 ha
+la - djf: 49418187.27 ha
+la - mam1: 69737392.67 ha
+la - jja1: 82214857.35 ha
+ne - mam: 71942248.03 ha
+ne - jja: 74194306.01 ha
+ne - son: 70903266.33 ha
+ne - djf: 57471881.42 ha
+ne - mam1: 70108252.74 ha
+ne - jja1: 82408301.68 ha
+
+Crop: maize
+el - mam: 7525139.38 ha
+el - jja: 10703365.77 ha
+el - son: 8788732.14 ha
+el - djf: 5702612.89 ha
+el - mam1: 9331437.82 ha
+el - jja1: 9192483.93 ha
+la - mam: 8286372.22 ha
+la - jja: 9099007.92 ha
+la - son: 8705575.07 ha
+la - djf: 6596165.22 ha
+la - mam1: 7487290.53 ha
+la - jja1: 9078095.12 ha
+ne - mam: 7343533.32 ha
+ne - jja: 8301570.40 ha
+ne - son: 6844720.43 ha
+ne - djf: 6335685.34 ha
+ne - mam1: 6972274.86 ha
+ne - jja1: 9547616.48 ha
+
+Crop: rice
+el - mam: 4140949.97 ha
+el - jja: 8502392.14 ha
+el - son: 6567604.69 ha
+el - djf: 4567629.34 ha
+el - mam1: 8262720.87 ha
+el - jja1: 7574188.03 ha
+la - mam: 6085946.21 ha
+la - jja: 4976884.70 ha
+la - son: 3105631.52 ha
+la - djf: 3187403.08 ha
+la - mam1: 2346412.27 ha
+la - jja1: 5336436.37 ha
+ne - mam: 5736923.71 ha
+ne - jja: 4947972.80 ha
+ne - son: 4056128.33 ha
+ne - djf: 4477541.72 ha
+ne - mam1: 5779225.55 ha
+ne - jja1: 5133673.38 ha
+
+Crop: soybean
+el - mam: 5714496.69 ha
+el - jja: 6077011.99 ha
+el - son: 5695241.58 ha
+el - djf: 4415401.94 ha
+el - mam1: 5956252.86 ha
+el - jja1: 5286331.91 ha
+la - mam: 5488269.83 ha
+la - jja: 5970300.42 ha
+la - son: 7473750.01 ha
+la - djf: 4814717.16 ha
+la - mam1: 5373561.17 ha
+la - jja1: 6002829.05 ha
+ne - mam: 4214381.27 ha
+ne - jja: 5860543.32 ha
+ne - son: 4210691.30 ha
+ne - djf: 5850823.14 ha
+ne - mam1: 4225903.93 ha
+ne - jja1: 6592165.70 ha
+
+Crop: wheat
+el - mam: 6672924.70 ha
+el - jja: 13499042.07 ha
+el - son: 10886438.37 ha
+el - djf: 6800439.79 ha
+el - mam1: 7334254.89 ha
+el - jja1: 11845395.58 ha
+la - mam: 11112232.84 ha
+la - jja: 10680152.42 ha
+la - son: 11338029.95 ha
+la - djf: 5197304.43 ha
+la - mam1: 10529381.45 ha
+la - jja1: 11830125.32 ha
+ne - mam: 10513842.68 ha
+ne - jja: 11363951.09 ha
+ne - son: 10574949.49 ha
+ne - djf: 6702916.68 ha
+ne - mam1: 10739764.26 ha
+ne - jja1: 11781730.02 ha
+
+HW
+
+Crop: total
+el - mam: 16141356.29 ha
+el - jja: 19391990.83 ha
+el - son: 25622840.01 ha
+el - djf: 30549776.76 ha
+el - mam1: 24633210.74 ha
+el - jja1: 28204090.83 ha
+la - mam: 16263343.58 ha
+la - jja: 15213186.81 ha
+la - son: 13986218.21 ha
+la - djf: 24655542.76 ha
+la - mam1: 12638203.42 ha
+la - jja1: 11479658.95 ha
+ne - mam: 17677290.97 ha
+ne - jja: 13343610.87 ha
+ne - son: 15886409.75 ha
+ne - djf: 34015200.31 ha
+ne - mam1: 16439293.87 ha
+ne - jja1: 11003525.07 ha
+
+Crop: maize
+el - mam: 2058790.91 ha
+el - jja: 2794449.60 ha
+el - son: 2331340.22 ha
+el - djf: 2971152.71 ha
+el - mam1: 2931529.09 ha
+el - jja1: 3354124.80 ha
+la - mam: 2186941.85 ha
+la - jja: 1786338.45 ha
+la - son: 1644793.06 ha
+la - djf: 2505884.05 ha
+la - mam1: 1523677.37 ha
+la - jja1: 1704305.89 ha
+ne - mam: 1970363.25 ha
+ne - jja: 1514324.86 ha
+ne - son: 1982004.29 ha
+ne - djf: 3379486.55 ha
+ne - mam1: 2131178.66 ha
+ne - jja1: 1458499.27 ha
+
+Crop: rice
+el - mam: 1183200.19 ha
+el - jja: 1575043.29 ha
+el - son: 1648872.47 ha
+el - djf: 1721366.12 ha
+el - mam1: 2468857.84 ha
+el - jja1: 2718369.69 ha
+la - mam: 1439061.51 ha
+la - jja: 1795157.19 ha
+la - son: 1356850.23 ha
+la - djf: 1531888.51 ha
+la - mam1: 931386.65 ha
+la - jja1: 972445.20 ha
+ne - mam: 1365467.12 ha
+ne - jja: 1503230.83 ha
+ne - son: 1354827.37 ha
+ne - djf: 2107258.50 ha
+ne - mam1: 1030039.66 ha
+ne - jja1: 1350578.05 ha
+
+Crop: soybean
+el - mam: 1319255.60 ha
+el - jja: 2574012.12 ha
+el - son: 1215377.47 ha
+el - djf: 1966848.13 ha
+el - mam1: 1447784.37 ha
+el - jja1: 3037410.82 ha
+la - mam: 1350016.46 ha
+la - jja: 765566.43 ha
+la - son: 737432.43 ha
+la - djf: 1425198.92 ha
+la - mam1: 791443.13 ha
+la - jja1: 739647.37 ha
+ne - mam: 1152400.39 ha
+ne - jja: 1025545.91 ha
+ne - son: 1372801.84 ha
+ne - djf: 2272537.03 ha
+ne - mam1: 1573474.26 ha
+ne - jja1: 713157.76 ha
+
+Crop: wheat
+el - mam: 1398809.91 ha
+el - jja: 1920554.99 ha
+el - son: 3637603.06 ha
+el - djf: 4193622.97 ha
+el - mam1: 2205317.17 ha
+el - jja1: 3125210.62 ha
+la - mam: 1384047.68 ha
+la - jja: 1163862.17 ha
+la - son: 1345098.68 ha
+la - djf: 3121617.36 ha
+la - mam1: 1192687.69 ha
+la - jja1: 1084829.98 ha
+ne - mam: 1529372.65 ha
+ne - jja: 1325390.88 ha
+ne - son: 1620251.77 ha
+ne - djf: 4368929.08 ha
+ne - mam1: 1220402.29 ha
+ne - jja1: 853222.51 ha
