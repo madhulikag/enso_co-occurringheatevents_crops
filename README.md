@@ -14,5 +14,6 @@ The order in which the code was executed
 8. HW_Prob_Areas (Figure 1d & S4b)
 9. AEI2015 (Figure S11)
 10. Crop_calendar (Figure S10)
-11. spatial_ext_crop_totalcropland (Figure S8, )
+11. spatial_ext_crop_totalcropland (Figure 2a,c, S6, S8)
+12. spatial_ext_by_crop
 
