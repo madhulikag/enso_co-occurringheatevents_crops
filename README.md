@@ -16,4 +16,6 @@ The order in which the code was executed
 10. Crop_calendar (Figure S10)
 11. spatial_ext_crop_totalcropland (Figure 2a,c, S6, S8)
 12. spatial_ext_by_crop
+13. total_crop_areas_hd
+14. total_crop_areas_hw
 
