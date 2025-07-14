@@ -21,5 +21,4 @@ The order in which the code was executed
 15. spatial_ext_by_crop_growingseason (Figure 4) # data for areas_hd1-growingseasons & areas_hw1-growingseasons is generated in this code
 16. areas_hd1-growingseasons (Figure 3a,b, S9a,b)
 17. areas_hw1-growingseasons (Figure 3c,d, S9c,d)
-18. 
 
