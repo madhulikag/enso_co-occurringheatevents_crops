@@ -18,7 +18,9 @@ The order in which the code was executed
 12. spatial_ext_by_crop # data for total_crop_areas_hd & total_crop_areas_hw is generated in this code
 13. total_crop_areas_hd (Figure 2b, S7a)
 14. total_crop_areas_hw (Figure 2d, S7b)
-15. spatial_ext_by_crop_growingseason (Figure 4) # data for areas_hd1-growingseasons & areas_hw1-growingseasons is generated in this code
-16. areas_hd1-growingseasons (Figure 3a,b, S9a,b)
-17. areas_hw1-growingseasons (Figure 3c,d, S9c,d)
+
+15. ----------------the below is about to be changed-------------------
+16. spatial_ext_by_crop_growingseason (Figure 4) # data for areas_hd1-growingseasons & areas_hw1-growingseasons is generated in this code
+17. areas_hd1-growingseasons (Figure 3a,b, S9a,b)
+18. areas_hw1-growingseasons (Figure 3c,d, S9c,d)
 
