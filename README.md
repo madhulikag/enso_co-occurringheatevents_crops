@@ -13,7 +13,7 @@ The order in which the code was executed
 7. HD_Prob_Areas (Figure 1c & S4a)
 8. HW_Prob_Areas (Figure 1d & S4b)
 9. AEI2015 (Figure S12)
-10. Crop_calendar (Figure S10)
+10. Crop_calendar (Figure S10, S11) 
 11. spatial_ext_crop_totalcropland (Figure 2a,c, S6, S8)
 12. spatial_ext_by_crop # data for total_crop_areas_hd, total_crop_areas_hw, areas_hd1 & areas_hw1 is generated in this code 
 13. total_crop_areas_hd (Figure 2b, S7a)
