@@ -1,6 +1,6 @@
 # enso_co-occurringheatevents_crops
 
-Code for the paper: 
+Code for the paper: Understanding ENSO’s Influence on Co-occurring Heat Events across Global Croplands
 
 The order in which the code was executed
 
