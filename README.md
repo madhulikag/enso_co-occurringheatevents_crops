@@ -17,9 +17,8 @@ The order in which the code was executed
 12. spatial_ext_crop_totalcropland (Figure 2a,c, S1, S5) # country-wise spatial extents of HD/HW
 13. total_crop_areas_hd (Figure 2b & S5a (intext)) # relative and absolute differences in global cropland areas exposed to HD
 14. total_crop_areas_hw (Figure 2d & S5b (intext)) # relative and absolute differences in global cropland areas exposed to HW
-15. spatial_ext_by_crop (Figure 3a, 4a, S8) # data for total_crop_areas_hd, total_crop_areas_hw, areas_hd1-prim-seas, areas_hw1-sec-seas, areas_hd1-prim-sec-seas & areas_hw1-prim-sec-seas is generated in this code
-16. areas_hd1-prim-seas, areas_hw1-sec-seas, areas_hd1-prim-sec-seas & areas_hw1-prim-sec-seas (Figure 3b-c, 4b-c S6-7)
-
+15. spatial_ext_by_crop (Figure 3a, 4a, S8) # data for total_crop_areas_hd, total_crop_areas_hw, areas_hd1-prim-seas, areas_hw1-sec-seas, areas_hd1-prim-sec-seas & areas_hw1-prim-sec-seas is generated in this code # country-wise exposure to multiseason co-occurring events (absolute and normalized)
+16. areas_hd1-prim-seas, areas_hw1-sec-seas, areas_hd1-prim-sec-seas & areas_hw1-prim-sec-seas (Figure 3b-c, 4b-c S6-7) # crop-specific exposure during at least one season of the primary growing period
 
 
 
